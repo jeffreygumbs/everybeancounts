@@ -134,8 +134,8 @@ export default function Bookkeeping() {
         >
           <h2 className="text-2xl font-bold text-[#5C2E2C] mb-6">Do Your Own Bookkeeping</h2>
           <p className="text-gray-700 mb-6">
-            Want to manage your own books? We'll train you on <Link href="https://quickbooks.intuit.com/ca/" className="text-[#5C2E2C] hover:underline" target="_blank">QuickBooks Online</Link> software 
-            to download transactions and perform bank reconciliations. We'll double-check everything to ensure accuracy, 
+            Want to manage your own books? We&apos;ll train you on <Link href="https://quickbooks.intuit.com/ca/" className="text-[#5C2E2C] hover:underline" target="_blank">QuickBooks Online</Link> software 
+            to download transactions and perform bank reconciliations. We&apos;ll double-check everything to ensure accuracy, 
             saving you time and money. Contact us for a free consultation to see if this option is right for your business.
           </p>
         </motion.div>

@@ -122,7 +122,7 @@ export default function Testimonials() {
               >
                 <FaQuoteLeft className="text-#5C2E2C text-3xl mb-4" />
               </motion.div>
-              <p className="text-gray-700 mb-6 italic">{testimonial.text}</p>
+              <p className="text-gray-700 italic mb-4">&ldquo;Every Bean Counts has been instrumental in helping me understand my business finances better.&rdquo;</p>
               <p className="text-#5C2E2C font-semibold">{testimonial.author}</p>
             </motion.div>
           ))}
@@ -172,7 +172,7 @@ export default function Testimonials() {
             transition={{ duration: 0.6, delay: 0.3 }}
           >
             Our complete client list covers a much wider scope of industries. Our clients range from companies just
-            starting out to multi-million dollar corporations. We are the "Small Business Specialists" in the field of
+            starting out to multi-million dollar corporations. We are the &ldquo;Small Business Specialists&ldquo; in the field of
             accounting and taxes. Let us help you get your accounting in order and we will exceed your high expectations
             in a friendly and professional manner.
           </motion.p>

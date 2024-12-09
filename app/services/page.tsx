@@ -226,7 +226,7 @@ export default function Services() {
             >
               <h2 className="text-2xl font-bold text-[#5C2E2C] mb-6 text-center">Our Commitment to You</h2>
               <p className="text-gray-700 mb-6">
-                In an effort to help our business clients to save money on their tax preparation services we make an extra effort to evaluate our client's records and then provide them with recommendations for the next year. Our recommendations will make the job more efficient saving you, the client, time and money.
+                In an effort to help our business clients to save money on their tax preparation services we make an extra effort to evaluate our client&apos;s records and then provide them with recommendations for the next year. Our recommendations will make the job more efficient saving you, the client, time and money.
               </p>
               <motion.div 
                 className="text-center mt-8"

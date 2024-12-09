@@ -91,7 +91,7 @@ export default function About() {
                   We are an Edmonton based accounting firm serving clients from Edmonton and across Canada. Serving clients from across the nation is made possible because much of our work is done electronically.
                 </p>
                 <p className="text-gray-700 mb-4">
-                  We use an extensive review process so that your records are kept accurately and no expenses are missing. This helps to maximize your tax savings while staying within CRA's limits.
+                  We use an extensive review process so that your records are kept accurately and no expenses are missing. This helps to maximize your tax savings while staying within CRA&apos;s limits.
                 </p>
                 <p className="text-gray-700">
                   Our policies and procedures exceed the high standards and expectations that professional accounting firms must abide by thereby making sure that your taxes are filed with the greatest accuracy. We provide top-notch and professional services at reasonable prices to make Every Bean Count for you.
@@ -149,7 +149,7 @@ export default function About() {
                     Sunni is the founder and owner of <span className="font-semibold">Every Bean Counts Inc</span>. Over the years, she has successfully run several businesses and so knows what it takes to be successful. She loves her work and is dedicated to doing it right!
                   </p>
                   <p className="text-gray-700">
-                    Sunni has a degree in accounting from the University of Alberta in Edmonton, and has also worked with one of Alberta's largest Chartered Accounting firms where she gained experience in several areas of tax and business administration.
+                    Sunni has a degree in accounting from the University of Alberta in Edmonton, and has also worked with one of Alberta&apos;s largest Chartered Accounting firms where she gained experience in several areas of tax and business administration.
                   </p>
                   <p className="text-gray-700">
                     With over 14 years of experience in public accounting and additional experience in related work throughout several industries, she knows the processes that are so important to running a healthy and profitable business. Clients are happy to have her educate them on these processes so that they may reduce stress and save money on their tax preparation fees.

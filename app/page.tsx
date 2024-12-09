@@ -106,7 +106,7 @@ export default function Home() {
             <MotionWrapper className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold text-[#5C2E2C] mb-12">Our Services</h2>
               <p className="text-lg text-[#5C2E2C] max-w-3xl mx-auto">
-                At <span className="font-semibold">Every Bean Counts</span> we know how stressful paperwork and taxes can be. We&apos;re here to <span className="font-semibold">reduce your stress</span> and help you <span className="font-semibold">focus on what you do best</span>.
+                At <span className="font-semibold">Every Bean Counts</span> we know how stressful paperwork and taxes can be. We&#39;re here to <span className="font-semibold">reduce your stress</span> and help you <span className="font-semibold">focus on what you do best</span>.
               </p>
             </MotionWrapper>
 
